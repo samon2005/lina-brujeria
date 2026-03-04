@@ -24,7 +24,7 @@
   }
   
   .card-glass {
-    @apply backdrop-blur-xl bg-white/5 p-6 rounded-xl border border-mystic-500/20 hover:border-mystic-400/40 transition-all duration-500 hover:shadow-mystic hover:bg-white/10;
+    @apply backdrop-blur-xl bg-white/5 p-3 md:p-6 rounded-xl border border-mystic-500/20 hover:border-mystic-400/40 transition-all duration-500 hover:shadow-mystic hover:bg-white/10;
   }
   
   .section-title {

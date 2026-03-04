@@ -50,7 +50,7 @@ export default function Services() {
           </p>
         </div>
 
-        <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8 max-w-7xl mx-auto">
+        <div className="grid grid-cols-2 lg:grid-cols-3 gap-4 md:gap-6 lg:gap-8 max-w-7xl mx-auto">
           {t.services.list.map((service, index) => {
             const IconComponent = icons[index];
             return (
@@ -58,28 +58,28 @@ export default function Services() {
                 key={index}
                 className="card-glass group hover:scale-105 transition-all duration-500 hover-shine overflow-hidden"
               >
-                <div className="text-center mb-4 text-mystic-300 group-hover:text-mystic-200 transition-colors duration-300">
-                  <div className="inline-block group-hover:scale-110 group-hover:rotate-6 transition-transform duration-500">
+                <div className="text-center mb-2 md:mb-4 text-mystic-300 group-hover:text-mystic-200 transition-colors duration-300">
+                  <div className="inline-block group-hover:scale-110 group-hover:rotate-6 transition-transform duration-500 scale-75 md:scale-100">
                     <IconComponent />
                   </div>
                 </div>
 
-                <h3 className="text-2xl font-serif font-bold text-mystic-300 mb-3 text-center">
+                <h3 className="text-lg md:text-xl lg:text-2xl font-serif font-bold text-mystic-300 mb-2 md:mb-3 text-center">
                   {service.title}
                 </h3>
 
-                <p className="text-gray-300 mb-4 text-center">
+                <p className="text-sm md:text-base text-gray-300 mb-3 md:mb-4 text-center">
                   {service.description}
                 </p>
 
-                <ul className="space-y-2 mb-6">
+                <ul className="space-y-1 md:space-y-2 mb-4 md:mb-6">
                   {service.features.map((feature, idx) => (
                     <li
                       key={idx}
-                      className="flex items-center gap-2 text-gray-400"
+                      className="flex items-center gap-1 md:gap-2 text-gray-400 text-xs md:text-sm"
                     >
                       <svg
-                        className="w-5 h-5 text-mystic-500 flex-shrink-0"
+                        className="w-4 h-4 md:w-5 md:h-5 text-mystic-500 flex-shrink-0"
                         fill="currentColor"
                         viewBox="0 0 20 20"
                       >
@@ -96,7 +96,7 @@ export default function Services() {
 
                 <button
                   onClick={() => handleWhatsAppClick(index)}
-                  className="w-full bg-gradient-to-r from-mystic-700 to-mystic-600 hover:from-mystic-600 hover:to-mystic-500 text-white py-3 rounded-lg transition-all duration-300 font-semibold shadow-lg hover:shadow-mystic"
+                  className="w-full bg-gradient-to-r from-mystic-700 to-mystic-600 hover:from-mystic-600 hover:to-mystic-500 text-white py-2 md:py-3 rounded-lg transition-all duration-300 font-semibold shadow-lg hover:shadow-mystic text-sm md:text-base"
                 >
                   {t.services.contactButton}
                 </button>
