@@ -66,11 +66,6 @@ export default function Process() {
               {t.process.steps.map((step, index) => (
                 <div key={index} className="w-full flex-shrink-0 px-4">
                   <div className="text-center">
-                    {/* Número */}
-                    <div className="w-24 h-24 mx-auto mb-6 rounded-full bg-gradient-to-br from-mystic-600 to-purple-700 flex items-center justify-center text-white text-3xl font-bold shadow-lg border-4 border-dark-300">
-                      {index + 1}
-                    </div>
-
                     {/* Icono */}
                     <div className="mb-4 text-mystic-300 flex justify-center">
                       {ProcessIcons[step.iconName]}
