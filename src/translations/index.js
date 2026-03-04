@@ -98,6 +98,96 @@ export const translations = {
             "Renovación espiritual",
           ],
         },
+        {
+          title: "Cazamientos de Almas y Corazones",
+          description:
+            "Recupera a la persona deseada y haz que siempre esté a tu lado con poderosos rituales de unión.",
+          features: [
+            "Recuperación de pareja",
+            "Unión permanente",
+            "Lazos inquebrantables",
+          ],
+        },
+        {
+          title: "Endulzamientos de Amor y Sexuales",
+          description:
+            "Para que tu pareja siempre sienta deseo sexual y amor por ti. Fortalece la pasión y atracción.",
+          features: [
+            "Aumenta el deseo",
+            "Fortalece el amor",
+            "Pasión constante",
+          ],
+        },
+        {
+          title: "Limpia y Purificación del Alma",
+          description:
+            "Aleja cualquier mal, limpia tu espíritu completamente y libérate de toda energía negativa.",
+          features: [
+            "Purificación profunda",
+            "Liberación de males",
+            "Renovación espiritual completa",
+          ],
+        },
+        {
+          title: "Tumba Trabajos",
+          description:
+            "Neutraliza y elimina cualquier trabajo de brujería que te hayan hecho. Protección inmediata.",
+          features: [
+            "Rompe hechizos",
+            "Neutraliza trabajos",
+            "Protección total",
+          ],
+        },
+        {
+          title: "Alejamientos",
+          description:
+            "Aleja personas tóxicas, conflictivas o no deseadas de tu vida o de tus seres queridos.",
+          features: [
+            "Alejamiento efectivo",
+            "Paz y tranquilidad",
+            "Protección permanente",
+          ],
+        },
+        {
+          title: "Separaciones",
+          description:
+            "Trabajos para separar parejas o personas que te causan daño. Resultados comprobados.",
+          features: [
+            "Separación efectiva",
+            "Rápidos resultados",
+            "Trabajo discreto",
+          ],
+        },
+        {
+          title: "Protecciones para Cualquier Motivo",
+          description:
+            "Protección personalizada para cualquier situación: trabajo, familia, negocios, salud y más.",
+          features: [
+            "Protección personalizada",
+            "Para cualquier área",
+            "Defensa permanente",
+          ],
+        },
+        {
+          title: "Rompemos Hechizos y Brujerías",
+          description:
+            "Deshacemos cualquier tipo de brujería, hechizo, amarre o mal que te hayan realizado.",
+          features: [
+            "Rompe todo hechizo",
+            "Elimina brujerías",
+            "Liberación total",
+          ],
+        },
+        {
+          title: "Recuperación de Pareja",
+          description:
+            "Trabajos especializados para recuperar a tu ex pareja y reconstruir la relación.",
+          features: [
+            "Regreso efectivo",
+            "Reconstrucción amorosa",
+            "Nueva oportunidad",
+          ],
+        },
       ],
     },
 
@@ -344,6 +434,96 @@ export const translations = {
             "Total purification",
             "Luck and fortune",
             "Spiritual renewal",
+          ],
+        },
+        {
+          title: "Soul and Heart Bindings",
+          description:
+            "Recover the desired person and make them always by your side with powerful union rituals.",
+          features: [
+            "Partner recovery",
+            "Permanent union",
+            "Unbreakable bonds",
+          ],
+        },
+        {
+          title: "Love and Sexual Sweetening",
+          description:
+            "Make your partner always feel sexual desire and love for you. Strengthen passion and attraction.",
+          features: [
+            "Increases desire",
+            "Strengthens love",
+            "Constant passion",
+          ],
+        },
+        {
+          title: "Soul Cleansing and Purification",
+          description:
+            "Remove any evil, cleanse your spirit completely and free yourself from all negative energy.",
+          features: [
+            "Deep purification",
+            "Liberation from evil",
+            "Complete spiritual renewal",
+          ],
+        },
+        {
+          title: "Work Breaker",
+          description:
+            "Neutralize and eliminate any witchcraft work done to you. Immediate protection.",
+          features: [
+            "Breaks spells",
+            "Neutralizes works",
+            "Total protection",
+          ],
+        },
+        {
+          title: "Distancing",
+          description:
+            "Distance toxic, conflictive or unwanted people from your life or your loved ones.",
+          features: [
+            "Effective distancing",
+            "Peace and tranquility",
+            "Permanent protection",
+          ],
+        },
+        {
+          title: "Separations",
+          description:
+            "Works to separate couples or people who cause you harm. Proven results.",
+          features: [
+            "Effective separation",
+            "Quick results",
+            "Discreet work",
+          ],
+        },
+        {
+          title: "Protection for Any Reason",
+          description:
+            "Personalized protection for any situation: work, family, business, health and more.",
+          features: [
+            "Personalized protection",
+            "For any area",
+            "Permanent defense",
+          ],
+        },
+        {
+          title: "We Break Spells and Witchcraft",
+          description:
+            "We undo any type of witchcraft, spell, binding or evil done to you.",
+          features: [
+            "Breaks all spells",
+            "Eliminates witchcraft",
+            "Total liberation",
+          ],
+        },
+        {
+          title: "Partner Recovery",
+          description:
+            "Specialized works to recover your ex-partner and rebuild the relationship.",
+          features: [
+            "Effective return",
+            "Love reconstruction",
+            "New opportunity",
           ],
         },
       ],

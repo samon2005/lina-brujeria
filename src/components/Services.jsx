@@ -21,12 +21,21 @@ export default function Services() {
   };
 
   const icons = [
-    TarotIcon,
-    CleansingIcon,
-    LoveIcon,
-    ProsperityIcon,
-    ProtectionIcon,
-    BathIcon,
+    TarotIcon,           // Lectura de Tarot
+    CleansingIcon,       // Limpias Energéticas
+    LoveIcon,            // Rituales de Amor
+    ProsperityIcon,      // Rituales de Prosperidad
+    ProtectionIcon,      // Protección Espiritual
+    BathIcon,            // Baños Espirituales
+    LoveIcon,            // Cazamientos de Almas y Corazones
+    LoveIcon,            // Endulzamientos de Amor y Sexuales
+    CleansingIcon,       // Limpia y Purificación del Alma
+    ProtectionIcon,      // Tumba Trabajos
+    ProtectionIcon,      // Alejamientos
+    ProtectionIcon,      // Separaciones
+    ProtectionIcon,      // Protecciones para Cualquier Motivo
+    ProtectionIcon,      // Rompemos Hechizos y Brujerías
+    LoveIcon,            // Recuperación de Pareja
   ];
 
   return (
