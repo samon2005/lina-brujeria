@@ -9,8 +9,7 @@ export default function Gallery() {
       alt: "Candles",
     },
     {
-      image:
-        "https://images.unsplash.com/photo-1567016526105-22da7c13161a?w=800&h=800&fit=crop&q=80",
+      image: "/1.jpeg",
       alt: "Crystals",
     },
     {
@@ -19,8 +18,7 @@ export default function Gallery() {
       alt: "Astrology",
     },
     {
-      image:
-        "https://images.unsplash.com/photo-1514894780887-121968d00567?w=800&h=800&fit=crop&q=80",
+      image: "/2.jpeg",
       alt: "Spiritual Items",
     },
     {
