@@ -10,7 +10,7 @@ export default function Gallery() {
     },
     {
       image:
-        "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=800&h=800&fit=crop&q=80",
+        "https://images.unsplash.com/photo-1615486511484-92e172cc4fe0?w=800&h=800&fit=crop&q=80",
       alt: "Crystals",
     },
     {
@@ -20,12 +20,12 @@ export default function Gallery() {
     },
     {
       image:
-        "https://images.unsplash.com/photo-1536466528142-f752ae7bdd0c?w=800&h=800&fit=crop&q=80",
+        "https://images.unsplash.com/photo-1600298882525-1ac26bb79b04?w=800&h=800&fit=crop&q=80",
       alt: "Spiritual Items",
     },
     {
       image:
-        "https://images.unsplash.com/photo-1543286386-713bdd548da4?w=800&h=800&fit=crop&q=80",
+        "https://images.unsplash.com/photo-1532767153582-b1a0e5145009?w=800&h=800&fit=crop&q=80",
       alt: "Moon and Stars",
     },
   ];
