@@ -5,10 +5,6 @@ export default function Gallery() {
 
   const galleryItems = [
     {
-      image: "/petr-sidorov-D3SzBCAeMhQ-unsplash.jpg",
-      alt: "Tarot Cards",
-    },
-    {
       image: "/velas.jpg",
       alt: "Candles",
     },
