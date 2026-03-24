@@ -10,7 +10,7 @@ export default function Gallery() {
     },
     {
       image:
-        "https://images.unsplash.com/photo-1615486511484-92e172cc4fe0?w=800&h=800&fit=crop&q=80",
+        "https://images.unsplash.com/photo-1567016526105-22da7c13161a?w=800&h=800&fit=crop&q=80",
       alt: "Crystals",
     },
     {
@@ -20,7 +20,7 @@ export default function Gallery() {
     },
     {
       image:
-        "https://images.unsplash.com/photo-1600298882525-1ac26bb79b04?w=800&h=800&fit=crop&q=80",
+        "https://images.unsplash.com/photo-1514894780887-121968d00567?w=800&h=800&fit=crop&q=80",
       alt: "Spiritual Items",
     },
     {
