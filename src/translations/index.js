@@ -39,16 +39,6 @@ export const translations = {
       whatsappMessage: "Hola, me interesa el servicio de",
       list: [
         {
-          title: "Lectura de Tarot",
-          description:
-            "Descubre lo que el futuro te depara con una lectura personalizada de tarot. Orientación clara para tus decisiones.",
-          features: [
-            "Lectura completa",
-            "Interpretación detallada",
-            "Consejos personalizados",
-          ],
-        },
-        {
           title: "Limpias Energéticas",
           description:
             "Elimina energías negativas y bloqueos que impiden tu crecimiento. Renueva tu aura y atrae prosperidad.",
@@ -380,16 +370,6 @@ export const translations = {
       contactButton: "Inquire",
       whatsappMessage: "Hello, I'm interested in the service of",
       list: [
-        {
-          title: "Tarot Reading",
-          description:
-            "Discover what the future holds with a personalized tarot reading. Clear guidance for your decisions.",
-          features: [
-            "Complete reading",
-            "Detailed interpretation",
-            "Personalized advice",
-          ],
-        },
         {
           title: "Energy Cleansing",
           description:
