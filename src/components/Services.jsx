@@ -15,7 +15,7 @@ export default function Services() {
     const serviceName = t.services.list[serviceIndex].title;
     const message = `${t.services.whatsappMessage} ${serviceName}`;
     window.open(
-      `https://wa.me/573115807057?text=${encodeURIComponent(message)}`,
+      `https://wa.me/573207897998?text=${encodeURIComponent(message)}`,
       "_blank",
     );
   };
@@ -124,7 +124,7 @@ export default function Services() {
                     ? "Hola, me interesa una consulta personalizada"
                     : "Hello, I'm interested in a personalized consultation";
                 window.open(
-                  `https://wa.me/573115807057?text=${encodeURIComponent(message)}`,
+                  `https://wa.me/573207897998?text=${encodeURIComponent(message)}`,
                   "_blank",
                 );
               }}

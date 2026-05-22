@@ -30,8 +30,8 @@ function App() {
             "@type": "ProfessionalService",
             name:
               language === "es"
-                ? "Ezequiel Sánchez - Servicios Místicos"
-                : "Ezequiel Sánchez - Mystic Services",
+                ? "Lina Ospina - Servicios Místicos"
+                : "Lina Ospina - Mystic Services",
             description: t.meta.description,
             priceRange: "$$",
             serviceType:

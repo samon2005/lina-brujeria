@@ -24,10 +24,10 @@ export default function FloatingCTA() {
   const handleCTA = () => {
     const message =
       language === "es"
-        ? "Hola, me interesa aprovechar la oferta de primera consulta"
-        : "Hello, I'm interested in taking advantage of the first consultation offer";
+        ? "Hola, me interesa una consulta"
+        : "Hello, I'm interested in a consultation";
     window.open(
-      `https://wa.me/573115807057?text=${encodeURIComponent(message)}`,
+      `https://wa.me/573207897998?text=${encodeURIComponent(message)}`,
       "_blank",
     );
   };

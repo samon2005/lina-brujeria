@@ -5,7 +5,7 @@ export default function WhatsAppButton() {
 
   const handleClick = () => {
     window.open(
-      "https://wa.me/573115807057?text=Hola,%20me%20interesa%20una%20consulta",
+      "https://wa.me/573207897998?text=Hola,%20me%20interesa%20una%20consulta",
       "_blank",
     );
   };

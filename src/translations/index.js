@@ -20,7 +20,7 @@ export const translations = {
     // About
     about: {
       title: "Sobre Mí",
-      name: "Ezequiel Sánchez",
+      name: "Lina Ospina",
       description1:
         "Con más de 15 años de experiencia en las artes místicas, he dedicado mi vida a estudiar y practicar las tradiciones ancestrales de la brujería.",
       description2:
@@ -191,7 +191,7 @@ export const translations = {
       schedule: "Horario de atención:",
       days: "Lunes a Domingo",
       hours: "9:00 AM - 10:00 PM",
-      copyright: "Ezequiel Sánchez - Servicios Místicos. Todos los derechos reservados.",
+      copyright: "Lina Ospina - Servicios Místicos. Todos los derechos reservados.",
     },
 
     // Testimonials
@@ -203,7 +203,7 @@ export const translations = {
           name: "María G.",
           initials: "MG",
           comment:
-            "La lectura de tarot fue increíblemente precisa. Ezequiel me ayudó a encontrar claridad en un momento muy difícil de mi vida.",
+            "La lectura de tarot fue increíblemente precisa. Lina me ayudó a encontrar claridad en un momento muy difícil de mi vida.",
           service: "Lectura de Tarot",
         },
         {
@@ -290,9 +290,9 @@ export const translations = {
 
     // Floating CTA
     floatingCTA: {
-      title: "¡Oferta Especial!",
-      description: "Primera consulta con 20% de descuento",
-      button: "Aprovechar Oferta",
+      title: "¿Necesitas orientación?",
+      description: "Escríbeme y cuéntame tu situación",
+      button: "Contactar ahora",
     },
 
     // Process
@@ -325,9 +325,9 @@ export const translations = {
 
     // Meta
     meta: {
-      title: "Ezequiel Sánchez - Servicios Místicos y Espirituales | Tarot, Brujería y Rituales",
+      title: "Lina Ospina - Servicios Místicos y Espirituales | Tarot, Brujería y Rituales",
       description:
-        "Descubre servicios profesionales de brujería, tarot, limpias energéticas y rituales personalizados. Consultas místicas con Ezequiel Sánchez para resolver tus inquietudes espirituales.",
+        "Descubre servicios profesionales de brujería, tarot, limpias energéticas y rituales personalizados. Consultas místicas con Lina Ospina para resolver tus inquietudes espirituales.",
     },
   },
 
@@ -352,7 +352,7 @@ export const translations = {
     // About
     about: {
       title: "About Me",
-      name: "Ezequiel Sánchez",
+      name: "Lina Ospina",
       description1:
         "With over 15 years of experience in the mystic arts, I have dedicated my life to studying and practicing the ancestral traditions of witchcraft.",
       description2:
@@ -519,7 +519,7 @@ export const translations = {
       schedule: "Office hours:",
       days: "Monday to Sunday",
       hours: "9:00 AM - 10:00 PM",
-      copyright: "Ezequiel Sánchez - Mystic Services. All rights reserved.",
+      copyright: "Lina Ospina - Mystic Services. All rights reserved.",
     },
 
     // Testimonials
@@ -531,7 +531,7 @@ export const translations = {
           name: "María G.",
           initials: "MG",
           comment:
-            "The tarot reading was incredibly accurate. Ezequiel helped me find clarity during a very difficult time in my life.",
+            "The tarot reading was incredibly accurate. Lina helped me find clarity during a very difficult time in my life.",
           service: "Tarot Reading",
         },
         {
@@ -618,9 +618,9 @@ export const translations = {
 
     // Floating CTA
     floatingCTA: {
-      title: "Special Offer!",
-      description: "First consultation with 20% discount",
-      button: "Take Advantage",
+      title: "Need guidance?",
+      description: "Write me and tell me your situation",
+      button: "Contact now",
     },
 
     // Process
@@ -653,9 +653,9 @@ export const translations = {
 
     // Meta
     meta: {
-      title: "Ezequiel Sánchez - Mystic and Spiritual Services | Tarot, Witchcraft and Rituals",
+      title: "Lina Ospina - Mystic and Spiritual Services | Tarot, Witchcraft and Rituals",
       description:
-        "Discover professional witchcraft, tarot, energy cleansing, and personalized ritual services. Mystic consultations with Ezequiel Sánchez to resolve your spiritual concerns.",
+        "Discover professional witchcraft, tarot, energy cleansing, and personalized ritual services. Mystic consultations with Lina Ospina to resolve your spiritual concerns.",
     },
   },
 };

@@ -16,7 +16,7 @@ export default function Footer() {
             <div className="flex items-center space-x-2 mb-4">
               <span className="text-3xl">🔮</span>
               <h3 className="text-2xl font-serif font-bold text-transparent bg-clip-text bg-gradient-to-r from-mystic-400 to-purple-300">
-                Ezequiel Sánchez
+                Lina Ospina
               </h3>
             </div>
             <p className="text-gray-400 leading-relaxed">
@@ -64,7 +64,7 @@ export default function Footer() {
             </h4>
             <div className="space-y-3">
               <a
-                href="https://wa.me/tunumerodetelefono"
+                href="https://wa.me/573207897998"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center gap-3 text-gray-400 hover:text-green-400 transition-colors group"

@@ -46,7 +46,7 @@ export default function Header() {
               <CrystalBallIcon />
             </div>
             <h1 className="text-2xl font-serif font-bold text-transparent bg-clip-text bg-gradient-to-r from-mystic-400 to-purple-300 group-hover:from-mystic-300 group-hover:to-purple-200 transition-all duration-300">
-              Ezequiel Sánchez
+              Lina Ospina
             </h1>
           </div>
 
