@@ -1,4 +1,4 @@
-# Proyecto Ezequiel Sánchez - Servicios Místicos
+# Proyecto Angelina - Servicios Místicos
 
 Una página web moderna y elegante para ofrecer servicios de brujería, tarot y rituales místicos. Diseñada con una estética única usando tonos oscuros y púrpuras, alejándose del típico rojo y blanco.
 
@@ -92,7 +92,7 @@ En `src/components/About.jsx`:
 ## 📄 Estructura del Proyecto
 
 ```
-ProyectoEzequiel/
+ProyectoAngelina/
 ├── src/
 │   ├── components/
 │   │   ├── Header.jsx          # Navegación superior

@@ -30,10 +30,9 @@ function App() {
             "@type": "ProfessionalService",
             name:
               language === "es"
-                ? "Lina Ospina - Servicios Místicos"
-                : "Lina Ospina - Mystic Services",
+                ? "Angelina - Servicios Místicos"
+                : "Angelina - Mystic Services",
             description: t.meta.description,
-            priceRange: "$$",
             serviceType:
               language === "es"
                 ? ["Tarot", "Brujería", "Rituales", "Limpias Energéticas"]

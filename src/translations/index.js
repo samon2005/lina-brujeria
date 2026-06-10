@@ -20,7 +20,7 @@ export const translations = {
     // About
     about: {
       title: "Sobre Mí",
-      name: "Lina Ospina",
+      name: "Angelina",
       description1:
         "Con más de 15 años de experiencia en las artes místicas, he dedicado mi vida a estudiar y practicar las tradiciones ancestrales de la brujería.",
       description2:
@@ -37,6 +37,17 @@ export const translations = {
         "Cada servicio es personalizado según tus necesidades específicas. Trabajamos juntos para lograr tus objetivos espirituales.",
       contactButton: "Consultar",
       whatsappMessage: "Hola, me interesa el servicio de",
+      featured: {
+        badge: "⭐ Más Popular",
+        title: "Lectura del Huevo",
+        description:
+          "El ritual ancestral más solicitado: el huevo absorbe y revela las energías negativas, brujerías o malas vibras que te afectan, permitiéndonos identificar el origen del problema y aplicar la limpieza adecuada.",
+        features: [
+          "Diagnóstico espiritual preciso",
+          "Detecta brujerías y malas energías",
+          "Limpieza profunda inmediata",
+        ],
+      },
       list: [
         {
           title: "Limpias Energéticas",
@@ -191,7 +202,7 @@ export const translations = {
       schedule: "Horario de atención:",
       days: "Lunes a Domingo",
       hours: "9:00 AM - 10:00 PM",
-      copyright: "Lina Ospina - Servicios Místicos. Todos los derechos reservados.",
+      copyright: "Angelina - Servicios Místicos. Todos los derechos reservados.",
     },
 
     // Testimonials
@@ -203,7 +214,7 @@ export const translations = {
           name: "María G.",
           initials: "MG",
           comment:
-            "La lectura de tarot fue increíblemente precisa. Lina me ayudó a encontrar claridad en un momento muy difícil de mi vida.",
+            "La lectura de tarot fue increíblemente precisa. Angelina me ayudó a encontrar claridad en un momento muy difícil de mi vida.",
           service: "Lectura de Tarot",
         },
         {
@@ -325,9 +336,9 @@ export const translations = {
 
     // Meta
     meta: {
-      title: "Lina Ospina - Servicios Místicos y Espirituales | Tarot, Brujería y Rituales",
+      title: "Angelina - Servicios Místicos y Espirituales | Tarot, Brujería y Rituales",
       description:
-        "Descubre servicios profesionales de brujería, tarot, limpias energéticas y rituales personalizados. Consultas místicas con Lina Ospina para resolver tus inquietudes espirituales.",
+        "Descubre servicios profesionales de brujería, tarot, limpias energéticas y rituales personalizados. Consultas místicas con Angelina para resolver tus inquietudes espirituales.",
     },
   },
 
@@ -352,7 +363,7 @@ export const translations = {
     // About
     about: {
       title: "About Me",
-      name: "Lina Ospina",
+      name: "Angelina",
       description1:
         "With over 15 years of experience in the mystic arts, I have dedicated my life to studying and practicing the ancestral traditions of witchcraft.",
       description2:
@@ -369,6 +380,17 @@ export const translations = {
         "Each service is personalized according to your specific needs. We work together to achieve your spiritual goals.",
       contactButton: "Inquire",
       whatsappMessage: "Hello, I'm interested in the service of",
+      featured: {
+        badge: "⭐ Most Popular",
+        title: "Egg Reading",
+        description:
+          "Our most requested ancestral ritual: the egg absorbs and reveals the negative energies, witchcraft, or bad vibes affecting you, allowing us to identify the root of the problem and apply the right cleansing.",
+        features: [
+          "Precise spiritual diagnosis",
+          "Detects witchcraft and bad energy",
+          "Immediate deep cleansing",
+        ],
+      },
       list: [
         {
           title: "Energy Cleansing",
@@ -519,7 +541,7 @@ export const translations = {
       schedule: "Office hours:",
       days: "Monday to Sunday",
       hours: "9:00 AM - 10:00 PM",
-      copyright: "Lina Ospina - Mystic Services. All rights reserved.",
+      copyright: "Angelina - Mystic Services. All rights reserved.",
     },
 
     // Testimonials
@@ -531,7 +553,7 @@ export const translations = {
           name: "María G.",
           initials: "MG",
           comment:
-            "The tarot reading was incredibly accurate. Lina helped me find clarity during a very difficult time in my life.",
+            "The tarot reading was incredibly accurate. Angelina helped me find clarity during a very difficult time in my life.",
           service: "Tarot Reading",
         },
         {
@@ -653,9 +675,9 @@ export const translations = {
 
     // Meta
     meta: {
-      title: "Lina Ospina - Mystic and Spiritual Services | Tarot, Witchcraft and Rituals",
+      title: "Angelina - Mystic and Spiritual Services | Tarot, Witchcraft and Rituals",
       description:
-        "Discover professional witchcraft, tarot, energy cleansing, and personalized ritual services. Mystic consultations with Lina Ospina to resolve your spiritual concerns.",
+        "Discover professional witchcraft, tarot, energy cleansing, and personalized ritual services. Mystic consultations with Angelina to resolve your spiritual concerns.",
     },
   },
 };

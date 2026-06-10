@@ -20,6 +20,14 @@ export default function Services() {
     );
   };
 
+  const handleFeaturedClick = () => {
+    const message = `${t.services.whatsappMessage} ${t.services.featured.title}`;
+    window.open(
+      `https://wa.me/573207897998?text=${encodeURIComponent(message)}`,
+      "_blank",
+    );
+  };
+
   const icons = [
     TarotIcon,           // Lectura de Tarot
     CleansingIcon,       // Limpias Energéticas
@@ -48,6 +56,80 @@ export default function Services() {
           <p className="text-xl text-gray-300 max-w-2xl mx-auto">
             {t.services.subtitle}
           </p>
+        </div>
+
+        {/* Servicio Destacado - Lectura del Huevo */}
+        <div className="max-w-5xl mx-auto mb-12 md:mb-16">
+          <div className="card-glass hover-shine relative overflow-hidden ring-2 ring-amber-400/40 shadow-[0_0_40px_rgba(251,191,36,0.25)]">
+            <span className="absolute top-4 left-4 md:top-6 md:left-6 z-10 px-4 py-1.5 rounded-full bg-gradient-to-r from-amber-400 to-yellow-500 text-dark-300 font-bold text-xs md:text-sm shadow-lg">
+              {t.services.featured.badge}
+            </span>
+
+            <div className="grid md:grid-cols-2 gap-6 md:gap-8 items-center pt-10 md:pt-2">
+              <div className="grid grid-cols-2 gap-3">
+                <div className="col-span-2 rounded-xl overflow-hidden aspect-video">
+                  <img
+                    src="/lectura-huevo-1.jpg"
+                    alt={t.services.featured.title}
+                    className="w-full h-full object-cover hover:scale-105 transition-transform duration-500"
+                    loading="lazy"
+                  />
+                </div>
+                <div className="rounded-xl overflow-hidden aspect-square">
+                  <img
+                    src="/lectura-huevo-2.jpg"
+                    alt={t.services.featured.title}
+                    className="w-full h-full object-cover hover:scale-105 transition-transform duration-500"
+                    loading="lazy"
+                  />
+                </div>
+                <div className="rounded-xl overflow-hidden aspect-square">
+                  <img
+                    src="/lectura-huevo-3.jpg"
+                    alt={t.services.featured.title}
+                    className="w-full h-full object-cover hover:scale-105 transition-transform duration-500"
+                    loading="lazy"
+                  />
+                </div>
+              </div>
+
+              <div>
+                <h3 className="text-2xl md:text-3xl lg:text-4xl font-serif font-bold text-mystic-300 mb-3">
+                  {t.services.featured.title}
+                </h3>
+                <p className="text-gray-300 mb-4 md:mb-6 leading-relaxed">
+                  {t.services.featured.description}
+                </p>
+                <ul className="space-y-2 mb-6">
+                  {t.services.featured.features.map((feature, idx) => (
+                    <li
+                      key={idx}
+                      className="flex items-center gap-2 text-gray-300"
+                    >
+                      <svg
+                        className="w-5 h-5 text-amber-400 flex-shrink-0"
+                        fill="currentColor"
+                        viewBox="0 0 20 20"
+                      >
+                        <path
+                          fillRule="evenodd"
+                          d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z"
+                          clipRule="evenodd"
+                        />
+                      </svg>
+                      <span>{feature}</span>
+                    </li>
+                  ))}
+                </ul>
+                <button
+                  onClick={handleFeaturedClick}
+                  className="btn-primary w-full md:w-auto"
+                >
+                  {t.services.contactButton}
+                </button>
+              </div>
+            </div>
+          </div>
         </div>
 
         <div className="grid grid-cols-2 lg:grid-cols-3 gap-4 md:gap-6 lg:gap-8 max-w-7xl mx-auto">

@@ -16,7 +16,7 @@ export default function Footer() {
             <div className="flex items-center space-x-2 mb-4">
               <span className="text-3xl">🔮</span>
               <h3 className="text-2xl font-serif font-bold text-transparent bg-clip-text bg-gradient-to-r from-mystic-400 to-purple-300">
-                Lina Ospina
+                Angelina
               </h3>
             </div>
             <p className="text-gray-400 leading-relaxed">
